@@ -14,8 +14,8 @@
       > data_preprocessing_template.py
   * 2) Regression
       * a) Simple_Linear_Regression
-        > Salary_Data.csv
-        > simple_linear_regression.py
+        1) Salary_Data.csv
+        2) simple_linear_regression.py
       * b) Multiple_Linear_Regression
         > 50_Startups.csv
         > multiple_linear_regression.py
