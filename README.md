@@ -54,27 +54,27 @@
   * g) Random_Forest_Classification
     * random_forest.py
     * Social_Network_Ads.csv
-* 4) Clustering
+* 4)Clustering
   * a) K_Means_Clustering
     * kmeans.py
     * Mall_Customers.csv
   * b) Hierarchical_Clustering
     * Hierarchy_clustering.py
     * Mall_Customers.csv
-* 5) Association_Rule_Learning
+* 5)Association_Rule_Learning
     * apriori.py
     * apyori.py
     * Market_Basket_Optimisation.csv
-* 6) Natural_Language_Processing
+* 6)Natural_Language_Processing
     * nlp.py
     * Restaurant_Reviews.tsv
-* 7) Deep_Learning
+* 7)Deep_Learning
   * a) Artificial_Neural_Networks
     * ANN.py
     * Churn_Modelling.csv
   * b) Convolutional_Neural_Networks
     * CNN.py
-* 8) Dimensionality_Reduction
+* 8)Dimensionality_Reduction
   * a) Principal_Component_Analysis
     * PCA.py
     * Wine.csv
@@ -84,7 +84,7 @@
   * c) Kernel_PCA
      * Kernel_PCA.py
      * Social_Network_Ads.csv
-* 9) Model_selection_Boosting
+* 9)Model_selection_Boosting
   * a) Model Selection
      * grid_Search.py
      * k_fold_cross_validation.py
