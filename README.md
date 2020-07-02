@@ -10,11 +10,11 @@
 ## Index
 * Machine_Learning
   * 1) Data_preprocessing
-      * Data.csv
-      * data_preprocessing_template.py
+      **Data.csv**
+      **data_preprocessing_template.py**
   * 2) Regression
       * a) Simple_Linear_Regression
-       * Salary_Data.csv
+           **Salary_Data.csv**
        * simple_linear_regression.py
       * b) Multiple_Linear_Regression
           
