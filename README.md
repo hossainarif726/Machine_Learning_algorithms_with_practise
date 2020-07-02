@@ -1,11 +1,12 @@
 ## Table of contents
 * [Description](#description)
 * [Index](#index)
-* [Library_Used](#library_used)
-* [Reference](#reference)
+* [Technology_Used](#technology_used)
+* [Resourcese](#resourcese)
 
 ## Description
-
+This repository is about my **2 Month** journey of **Machine Learning** Algorithm. I have completed some important algorithm with hands on practise. I have used most of the datasets from **Kaggle**. I haven't uploaded CNN dataset because of the dataset contains 10,000 image. With every .py file there is the dataset which is being used on that file. There is also a **'Dataset_uesd'** folder which contains all the datasets.
+**Thank you**
 
 ## Index
 * 1)Data_preprocessing
@@ -103,12 +104,16 @@
   * Salary_Data.csv
   * Social_Network_Ads.csv
   * Wine.csv
-
-## Library_Used
-* cv2
-
-## Reference
+  
+## Description
+  * Spyder IDE
+  * Jupyter Notebook
+  
+## Resources
 
 Link:
-
-
+https://www.udemy.com/course/machinelearning/
+Dataset:
+https://www.kaggle.com/
+CNN Dataset:
+https://www.kaggle.com/c/dogs-vs-cats/data
