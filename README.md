@@ -5,7 +5,7 @@
 * [Resources](#resources)
 
 ## Description
-This repository is about my **2 Month** journey of **Machine Learning** Algorithm. I have completed some important algorithm with hands on practise. I have used most of the datasets from **Kaggle**. I haven't uploaded CNN dataset because of the dataset contains 10,000 image. With every .py file there is the dataset which is being used on that file. There is also a **'Dataset_uesd'** folder which contains all the datasets.
+This repository is about my **2 Month** journey of **Machine Learning** Algorithms. I have completed some important algorithms with hands on practise. I have used most of the datasets from **Kaggle**. I haven't uploaded CNN dataset because of the dataset contains 10,000 image. With every .py file there is the dataset which is being used on that file. There is also a **'Dataset_uesd'** folder which contains all the datasets in one place.
 **Thank you**
 
 ## Index
